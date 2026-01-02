@@ -6,7 +6,5 @@
 
 # Allow only specific file types
 !*.cpp
-!*.md
-!*.in
 !.gitignore
-!.gitignore
+
