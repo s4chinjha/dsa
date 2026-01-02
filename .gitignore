@@ -1,11 +1,12 @@
-# Ignore binary files
-*.exe
-*.out
-*.bin
-*.dll
-*.so
-*.a
-*.o
-*.obj
-*.class
-!*.*
+# Ignore everything by default
+*
+
+# Allow folders to exist
+!*/
+
+# Allow only specific file types
+!*.cpp
+!*.md
+!*.in
+!.gitignore
+!.gitignore
