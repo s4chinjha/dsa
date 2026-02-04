@@ -6,5 +6,5 @@
 
 # Allow only specific file types
 !*.cpp
-!.gitignore
+
 
